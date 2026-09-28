@@ -4,8 +4,8 @@
  */
 package com.tienda.service;
 
-import com.tienda.tienda.domain.Categoria;
-import com.tienda.tienda.repository.CategoriaRepository;
+import com.tienda.domain.Categoria;
+import com.tienda.repository.CategoriaRepository;
 import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
